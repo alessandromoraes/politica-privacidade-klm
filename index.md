@@ -9,7 +9,7 @@ Esta política explica quais dados o aplicativo trata, para que e com quem eles 
 ## Quem é responsável
 
 Aplicativo desenvolvido e mantido por **Alessandro Moraes**.
-Contato para dúvidas ou pedidos sobre seus dados: **ti@grupoklm.com**
+Contato para dúvidas ou pedidos sobre seus dados: **ti@klmgrupo.com**
 
 ## Dados que o aplicativo trata
 
